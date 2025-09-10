@@ -17,9 +17,9 @@ This project was built as part of the **Meta Front-End Developer Certificate** o
 
 ## Project Structure
 
-├── index.html # Main HTML file
-├── style.css # Styling for the landing page
-├── assets/ # Images and logo assets
+- index.html # Main HTML file
+- style.css # Styling for the landing page
+- assets/ # Images and logo assets
 
 
 ---
